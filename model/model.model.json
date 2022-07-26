@@ -1,0 +1,18 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"model.moc",
+	"textures":[
+		"model.2048/texture_00.png"
+	],
+	"expressions":[
+		{"name":"F01.exp.json","file":"expressions/f00.exp.json"},
+		{"name":"F02.exp.json","file":"expressions/f01.exp.json"},
+		{"name":"F03.exp.json","file":"expressions/f02.exp.json"},
+		{"name":"F04.exp.json","file":"expressions/f03.exp.json"},
+		{"name":"F05.exp.json","file":"expressions/f04.exp.json"},
+		{"name":"F06.exp.json","file":"expressions/f05.exp.json"},
+		{"name":"F07.exp.json","file":"expressions/f06.exp.json"}
+	],
+	"project_settings":"model.settings.json",
+	"name":""
+}
